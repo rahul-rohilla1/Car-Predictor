@@ -12,10 +12,7 @@ Carsify is an end to end Machine learning deployed site, which uses certain feat
 #### Live Preview
 Visit ```https://carsifythepredictor.herokuapp.com/``` to viw the live demo of the app.
 
-#### How to use it ?
-To use this project, first clone the repo on your device using the command below:
-```
-git clone https://github.com/yashrajjain726/Carsify-The-Car-Price-Predictor
+
 ```
 #### Picture View
 
@@ -30,8 +27,7 @@ You must install all the python libraries using the below command
 1.Run ``` app.py ``` to get the localhost server link.
 2.Go to browser and load ``` http://127.0.0.1:5000/```
 
-#### 🙋 Created and Maintained by  
-```https://github.com/yashrajjain726```
+
 
 #### 🤝 Contributing
 
