@@ -9,4 +9,4 @@ Carsify is an end to end Machine learning deployed site, which uses certain feat
   - It will give you the target value.
   
   
-![Alt text](https://github.com/rahul-rohilla1/Car-Predictor/blob/main/Procfile)
+![Alt text](https://github.com/rahul-rohilla1/Car-Predictor/blob/main/main.jpg)
